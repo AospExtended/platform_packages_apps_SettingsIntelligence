@@ -19,4 +19,8 @@
     <color name="launcher_background_color">#ff008577</color>
 
     <color name="search_panel_background">@android:color/white</color>
+<<<<<<< HEAD
+=======
+    <color name="search_panel">@android:color/white</color>
+>>>>>>> 4f5d216... SettingsIntelligence: Match Settings style
 </resources>
